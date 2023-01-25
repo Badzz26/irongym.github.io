@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Poppins:ital,wght@1,300&family=Ubuntu:wght@300&display=swap');
+
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.font-bold{
+    font-weight: bolder;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    /* color: rgb(41 98 255); */
+    color:rgb(14, 46, 134);
+
+}
+
+.btn{
+    padding: 6px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    color:white;
+    background-color: rgb(30, 87, 242);
+}
+
+.text-center{
+    text-align: center;
+}
+
+.highlighted-text {
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.outline-text {
+    font-family: 'Bungee Outline', cursive;
+    font-size: 2rem;
+    /* color: #fd3e46; */
+    color: rgb(41 98 255);
+}
